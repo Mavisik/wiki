@@ -93,3 +93,9 @@ a.book::before {
 .VPHero .VPImage {
     transform: translate(-50%, -50%) scale(0.75, 0.75);
 }
+
+body {
+    background-image: url('path/to/your-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
