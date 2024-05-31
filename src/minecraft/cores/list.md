@@ -1,6 +1,6 @@
 ---
 order: 1
-authors: ['envizar']
+authors: ['Mavisik']
 ---
 
 # Список ядер
